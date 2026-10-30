@@ -6,3 +6,5 @@ def test_app_status():
     # Имитация проверки статуса приложения
     status = "ok"
     assert status == "ok"
+    
+    
